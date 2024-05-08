@@ -11,10 +11,10 @@ Este projeto consiste em uma única página que apresenta os produtos e a marca 
 O projeto é composto por vários arquivos e diretórios:
 
 - `index.html`: O arquivo HTML principal que contém a estrutura da página.
-- `styles`: A pasta de arquivos CSS que estilizam a página.
+- `styles/`: Diretório contendo arquivos CSS que estilizam a página.
 - `images/`: Diretório contendo imagens utilizadas na página.
 - `README.md`: Este arquivo que fornece informações sobre o projeto.
 
 ## Como Visualizar o Projeto
 
-Para visualizar a página, basta abrir o arquivo `index.html` em um navegador da web. Você pode fazer isso clicando duas vezes no arquivo ou abrindo-o em seu editor de código e usando uma extensão para visualizar no navegador.
+Para visualizar a página, basta abrir o arquivo `index.html` em um navegador da web. Você pode fazer isso clicando duas vezes no arquivo ou abrindo-o em seu editor de código e usando uma extensão para visualizar no navegador. Ou você pode simplesmente acessar `https://joeltonken.github.io/pudinlandia/`.
