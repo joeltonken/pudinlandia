@@ -17,4 +17,4 @@ O projeto é composto por vários arquivos e diretórios:
 
 ## Como Visualizar o Projeto
 
-Para visualizar a página, basta abrir o arquivo `index.html` em um navegador da web. Você pode fazer isso clicando duas vezes no arquivo ou abrindo-o em seu editor de código e usando uma extensão para visualizar no navegador. Ou você pode simplesmente acessar `https://joeltonken.github.io/pudinlandia/`.
+Para visualizar a página, basta abrir o arquivo `index.html` em um navegador da web. Você pode fazer isso clicando duas vezes no arquivo ou abrindo-o em seu editor de código e usando uma extensão para visualizar no navegador. Ou você pode simplesmente acessar [aqui](https://joeltonken.github.io/pudinlandia/).
